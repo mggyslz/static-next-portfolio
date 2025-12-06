@@ -18,7 +18,7 @@ interface Project {
 const projects: Project[] = [
   {
     title: 'Smart Treasurer',
-    description: 'SmartTreasure is an innovative platform that simplifies wealth management by allowing users to securely manage, track, and grow their digital and financial assets through smart analytics and intuitive design.',
+    description: 'SmartTreasure is an innovative and user-friendly platform that simplifies wealth management by allowing users to securely manage, track, and grow their digital and financial assets through smart analytics and intuitive design.',
     video: '/asset/smart_treasurer.mp4',
     techStack: ['HTML', 'CSS', 'JavaScript'],
     githubUrl: 'https://github.com/mggyslz/SmartTreasurer',
@@ -47,11 +47,11 @@ const projects: Project[] = [
     demoUrl: '/asset/pomodoro.mp4',
     icon: <Clock style={{ width: '1rem', height: '1rem', color: 'var(--emerald-base)' }} />,
     challenges: 'Almost everything in the Pomodoro App project was a challenge, since I started it with limited knowledge of the languages and frameworks I used — aside from HTML, CSS, JavaScript, and SQL. With the help of AI, I was able to understand new concepts and technologies as I built the app step by step.',
-    lessons: 'This project taught me the value of persistence and learning by doing. I discovered how powerful it is to combine curiosity with the right tools — especially AI — to overcome technical limitations and expand my skills beyond what I thought possible.',
+    lessons: 'This project taught me the true value of persistence and learning by doing. I discovered how incredibly powerful it is to combine curiosity with the right tools — especially AI — to overcome technical limitations and expand my skills far beyond what I thought possible.',
   },
   {
     title: 'Accesium - QR Access Logger',
-    description: 'Accesium is a secure access and attendance system that uses QR codes and PINs to record entry and exit. It lets admins manage users, monitor logs, and track who\'s inside — all stored safely in an offline database.',
+    description: 'AccAccesium is a secure and reliable access and attendance system that uses QR codes and PINs to record entry and exit. It lets admins easily manage users, monitor logs, and track who’s inside — all safely stored in an offline database.',
     video: '/asset/qrlogger.mp4',
     techStack: ['Python', 'HTML', 'CSS', 'JavaScript', 'SQLite'],
     githubUrl: 'https://github.com/mggyslz/404',
@@ -73,7 +73,7 @@ const projects: Project[] = [
   },
   {
     title: 'Platformer Trip Game',
-    description: 'Platformer Trip Game is a 2D platformer game that takes players on an exciting journey through various levels filled with challenges and obstacles. The game features vibrant pixel art and engaging gameplay mechanics.',
+    description: 'Platformer Trip Game is a 2D platformer adventure game that takes players on an exciting journey through various levels filled with challenges and obstacles. The game features vibrant pixel art and engaging gameplay mechanics.',
     video: '/asset/pixel.mp4',
     techStack: ['Godot', 'GDScript'],
     githubUrl: 'https://github.com/mggyslz/404',
