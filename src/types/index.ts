@@ -1,3 +1,5 @@
+import { ReactNode } from 'react';
+
 export interface Project {
   id: string;
   title: string;
@@ -6,7 +8,7 @@ export interface Project {
   techStack: string[];
   githubUrl: string;
   demoUrl: string;
-  icon: JSX.Element;
+  icon: ReactNode; // fixed
   challenges: string;
   lessons: string;
 }
@@ -14,11 +16,11 @@ export interface Project {
 export interface Skill {
   name: string;
   status: 'MASTERED' | 'TRAINING';
-  icon: JSX.Element;
+  icon: ReactNode; // fixed
 }
 
 export interface Stat {
-  icon: JSX.Element;
+  icon: ReactNode; // fixed
   value: string;
   label: string;
   description: string;
