@@ -23,7 +23,7 @@ This site showcases my projects, skills, and contact info in a clean, modern des
 
 - **Next.js** + React
 - **CSS** for styling
-- **Vercel** recommended for deployment
+- **Vercel**
 
 ---
 
