@@ -24,19 +24,7 @@ This site showcases my projects, skills, and contact info in a clean, modern des
 
 ---
 
-## Projects
-
-| Project | Demo/Preview |
-|---------|-------------|
-| File Organizer | ![file-organizer](public/asset/file_organizer.mp4) |
-| Pixel Game | ![pixel-game](public/asset/pixel.mp4) |
-| Pomodoro App | ![pomodoro](public/asset/pomodoro.mp4) |
-| QR Logger | ![qr-logger](public/asset/qrlogger.mp4) |
-| Smart Treasurer | ![smart-treasurer](public/asset/smart_treasurer.mp4) |
-
----
-
-## 🚀 Run Locally
+## Run Locally
 
 ```bash
 git clone https://github.com/mggyslz/static-next-portfolio.git
