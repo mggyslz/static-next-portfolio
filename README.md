@@ -1,4 +1,6 @@
-# mggyslz Portfolio 
+# Mggyslz Portfolio
+
+Check out the live site: [https://static-next-portfolio-8vse-g9oxo6bi6-mggyslzs-projects.vercel.app/#](https://static-next-portfolio-8vse-g9oxo6bi6-mggyslzs-projects.vercel.app/#)
 
 Welcome to my **Next.js static portfolio**!  
 This site showcases my projects, skills, and contact info in a clean, modern design.
