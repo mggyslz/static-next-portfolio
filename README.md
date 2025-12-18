@@ -8,17 +8,6 @@ This site showcases my projects, skills, and contact info in a clean, modern des
 
 ---
 
-## Features
-
-- Responsive layout for desktop and mobile
-- Smooth scrolling with side navigation
-- Project showcase with video demos
-- Skills & stats section
-- Contact form for inquiries
-- Fully static, optimized for speed
-
----
-
 ## Tech Stack
 
 - **Next.js** + React
